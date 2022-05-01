@@ -1,9 +1,10 @@
 Hi 👋 My name is Roman Kurushin
 ===============================
 
+<a href="https://qork.ru" rel="nofollow"><img src="https://github.com/PHDRL/PHDRL/blob/main/dino.gif" alt="" style="width: 100%; max-width: 100%;"></a>
+
 Web Dev & Web Designer
 ----------------------
-
 I work as a freelancer, I have been studying code for 2 years, developing websites for 2 years. I've been doing web design for over 6 years, but I haven't always designed websites. Favorite thing - to develop projects.
 
 * 🌍  I'm based in Russia, Moscow
