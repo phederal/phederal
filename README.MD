@@ -15,8 +15,8 @@ I work as a freelancer, I have been studying code for 2 years, developing websit
 * 🤝  I'm open to collaborating on Wordpress Sites, WebDesigns
 * ⚡  Don't waste your time
 
-<a href="https://www.github.com/PHDRL" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PHDRL?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+<a href="https://www.github.com/phederal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/phederal?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/PHDRL?logo=github&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/PHDRL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/phederal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
