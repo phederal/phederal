@@ -1,4 +1,4 @@
-Hi 👋 My name is Roman Kurushin
+Hi 👋 My name is Roman Andreevich
 ===============================
 
 <a href="https://qork.ru" rel="nofollow"><img src="https://github.com/PHDRL/PHDRL/blob/main/dino.gif" alt="" style="width: 100%; max-width: 100%;"></a>
