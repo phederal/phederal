@@ -11,7 +11,7 @@ I work as a freelancer, I have been studying code for 2 years, developing websit
 * 🖥️  See my portfolio at [Qork/Cases](http://qork.ru)
 * ✉️  You can contact me at [by@qork.ru](mailto:by@qork.ru)
 * 🚀  I'm currently working on [QorkAgency](http://qork.ru)
-* 🧠  I'm learning SCSS/JS/PHP
+* 🧠  I'm learning VUE/VUEX/NUXT/Laravel
 * 🤝  I'm open to collaborating on Wordpress Sites, WebDesigns
 * ⚡  Don't waste your time
 
