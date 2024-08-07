@@ -10,7 +10,7 @@ I work as a freelancer, I have been studying code for 2 years, developing websit
 * 🌍  I'm based in Russia, Moscow
 * 🖥️  See my portfolio at [Romon](https://romon.io)
 * ✉️  You can contact me at [the@romon.io](mailto:the@romon.io)
-* 🚀  I'm currently working on [Romon](https://romon io)
+* 🚀  I'm currently working on [Romon](https://romon.io)
 * 🧠  I'm learning Vue/Pinia/Nuxt
 * 🤝  I'm open to collaborating on Wordpress Sites, Web Designs, Chat Bots, etc JS works.
 * ⚡  Don't waste your time!
