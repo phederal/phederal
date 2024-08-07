@@ -5,7 +5,7 @@ Hi 👋 My name is Roman Andreevich
 
 Web Dev & Web Designer
 ----------------------
-I work as a freelancer, I have been studying code for 2 years, developing websites for 2 years. I've been doing web design for over 6 years, but I haven't always designed websites. Favorite thing - to develop projects.
+I work as a freelancer, I have been studying code for 5 years, developing websites for 5 years. I've been doing web design for over 8 years, but I haven't always designed websites. Favorite thing - to get cors errors.
 
 * 🌍  I'm based in Russia, Moscow
 * 🖥️  See my portfolio at [Romon](https://romon.io)
