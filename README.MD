@@ -12,7 +12,7 @@ I work as a freelancer, I have been studying code for 2 years, developing websit
 * ✉️  You can contact me at [the@romon.io](mailto:the@romon.io)
 * 🚀  I'm currently working on [Romon](https://romon.io)
 * 🧠  I'm learning Vue/Pinia/Nuxt
-* 🤝  I'm open to collaborating on Wordpress Sites, Web Designs, Chat Bots, etc JS works.
+* 🤝  I'm open to collaborating on Wordpress Sites, Web Designs, Chat Bots, etc js/node.js/php works.
 * ⚡  Don't waste your time!
 
 ### Skills
