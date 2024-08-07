@@ -8,15 +8,12 @@ Web Dev & Web Designer
 I work as a freelancer, I have been studying code for 2 years, developing websites for 2 years. I've been doing web design for over 6 years, but I haven't always designed websites. Favorite thing - to develop projects.
 
 * 🌍  I'm based in Russia, Moscow
-* 🖥️  See my portfolio at [Qork/Cases](http://qork.ru)
-* ✉️  You can contact me at [by@qork.ru](mailto:by@qork.ru)
-* 🚀  I'm currently working on [QorkAgency](http://qork.ru)
-* 🧠  I'm learning VUE/VUEX/NUXT/Laravel
-* 🤝  I'm open to collaborating on Wordpress Sites, WebDesigns
-* ⚡  Don't waste your time
-
-<a href="https://www.github.com/phederal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/phederal?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+* 🖥️  See my portfolio at [Romon](https://romon.io)
+* ✉️  You can contact me at [the@romon.io](mailto:the@romon.io)
+* 🚀  I'm currently working on [Romon](https://romon io)
+* 🧠  I'm learning Vue/Pinia/Nuxt
+* 🤝  I'm open to collaborating on Wordpress Sites, Web Designs, Chat Bots, etc JS works.
+* ⚡  Don't waste your time!
 
 ### Skills
 
