@@ -1,26 +1,29 @@
 Hi 👋 My name is Roman Andreevich
 ===============================
 
-<a href="https://qork.ru" rel="nofollow"><img src="https://github.com/PHDRL/PHDRL/blob/main/dino.gif" alt="" style="width: 100%; max-width: 100%;"></a>
+Favorite thing - to get cors errors.
 
-Web Dev & Web Designer
-----------------------
-I work as a freelancer, I have been studying code for 5 years, developing websites for 5 years. I've been doing web design for over 8 years, but I haven't always designed websites. Favorite thing - to get cors errors.
-
-* 🌍  I'm based in Russia, Moscow
+* 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Romon](https://romon.io)
 * ✉️  You can contact me at [the@romon.io](mailto:the@romon.io)
-* 🚀  I'm currently working on [Romon](https://romon.io)
-* 🧠  I'm learning Vue/Pinia/Nuxt
-* 🤝  I'm open to collaborating on Wordpress Sites, Web Designs, Chat Bots, etc js/node.js/php works.
-* ⚡  Don't waste your time!
+* 🚀  I'm currently team working
+* 🧠  I'm Fullstack developer, 7-8 years
+* 🤝  I'm open to dev webapps and web services
+* ⚡  Don't waste my time, please
 
 ### Skills
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%232C8EBB.svg?style=for-the-badge&logo=pnpm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</p>
+### Навыки
 
+| | |
+| --- | --- |
+| **Langs**  | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/sh-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Bun.sh](https://img.shields.io/badge/bun.sh-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![WebSocket](https://img.shields.io/badge/websocket-%2300B4AB.svg?style=for-the-badge&logo=websocket&logoColor=white) ![Socket.io](https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Frontend** | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Inertia](https://img.shields.io/badge/inertia-%239B7EED.svg?style=for-the-badge&logo=inertia&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white) ![OpenAPI](https://img.shields.io/badge/openapi-%236BA539.svg?style=for-the-badge&logo=openapi-initiative&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23ffffff.svg?style=for-the-badge&logo=figma&logoColor=%23000000) |
+| **Tools** | ![tRPC](https://img.shields.io/badge/tRPC-%2320232A.svg?style=for-the-badge&logo=trpc&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Dragonfly](https://img.shields.io/badge/dragonfly-%23FFFFFF.svg?style=for-the-badge&logo=dragonfly&logoColor=white) ![Sequelize](https://img.shields.io/badge/sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white) ![Drizzle](https://img.shields.io/badge/drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white) |
+| **Frameworks** | ![Hono](https://img.shields.io/badge/hono-%23FF6347.svg?style=for-the-badge&logo=hono&logoColor=white) ![Express](https://img.shields.io/badge/express-%230C0C0C.svg?style=for-the-badge&logo=express&logoColor=white) ![Leaf PHP](https://img.shields.io/badge/leaf-%236DB33F.svg?style=for-the-badge&logo=php&logoColor=white) ![Grammy](https://img.shields.io/badge/grammy-%231A1A1A.svg?style=for-the-badge&logo=telegram&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **Services** | ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| **Server** | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/phederal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<a href="https://qork.ru" rel="nofollow"><img src="https://github.com/PHDRL/PHDRL/blob/main/dino.gif" alt="" style="width: 100%; max-width: 100%;"></a>
