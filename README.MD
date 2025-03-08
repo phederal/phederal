@@ -8,6 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=1&color=00F789&center=true&vCenter=true&repeat=false&width=435&height=20&lines=fn+me()+return+'github.com%2Fphederal'" alt="Typing SVG" />
 </p>
 
+---
+
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Romon](https://romon.io)
 * ✉️  You can contact me at [the@romon.io](mailto:the@romon.io)
