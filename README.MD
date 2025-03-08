@@ -16,7 +16,6 @@
 * 🤝  I'm open to dev webapps and web services
 * ⚡  Don't waste my time, please
 
-### Skills
 
 | Category | Techs |
 | :--- | :--- |
