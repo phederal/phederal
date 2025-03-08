@@ -1,7 +1,5 @@
-Hi 👋 My name is Roman Andreevich
+Hi 👋 My name is Roman
 ===============================
-
-Favorite thing - to get cors errors.
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Romon](https://romon.io)
@@ -13,9 +11,7 @@ Favorite thing - to get cors errors.
 
 ### Skills
 
-### Навыки
-
-| | |
+| Category | Techs |
 | --- | --- |
 | **Langs**  | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/sh-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Bun.sh](https://img.shields.io/badge/bun.sh-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![WebSocket](https://img.shields.io/badge/websocket-%2300B4AB.svg?style=for-the-badge&logo=websocket&logoColor=white) ![Socket.io](https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
