@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&letterSpacing=-0.03em&duration=1&color=AB6DFF&center=true&vCenter=true&repeat=false&width=450&height=20&lines=Romon%C2%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&letterSpacing=-0.03em&duration=1&color=AB6DFF&center=true&vCenter=true&repeat=false&width=80&height=20&lines=Romon%C2%A9" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&letterSpacing=-0.03em&duration=3000&pause=500&color=51A4FF&center=true&vCenter=true&width=450&height=20&lines=fullstack+developer;ui%2Fux+designer;devopser+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=21&letterSpacing=-0.03em&duration=2000&pause=500&color=51A4FF&center=true&vCenter=true&width=250&height=20&lines=fullstack+developer;ui%2Fux+designer;devopser+%3C3" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&letterSpacing=-0.03em&duration=1&color=1455FF80&center=true&vCenter=true&repeat=false&width=450&height=20&lines=romon.io+%2F+worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=13&letterSpacing=-0.03em&duration=1&color=1455FF80&center=true&vCenter=true&repeat=false&width=150&height=20&lines=romon.io+%2F+worldwide" alt="Typing SVG" />
 </p>
 
 ---
